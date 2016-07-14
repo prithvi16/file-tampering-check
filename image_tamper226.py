@@ -1,4 +1,4 @@
-roll no:226
+
 
 from PIL import Image
 import hashlib 
